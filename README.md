@@ -7,8 +7,8 @@ Each Teams card lists every contract that changed in the last few seconds, for e
 
 > **Position changed**
 > TeamAlertFillsNotifier.xlsm · rtd_data[net_position] · 23-Oct-2026 20:46:46 · 2 change(s)
-> ER3 SEP28 — 39 → **40**  +1 (+2.56%)
-> I SEP28 — 318 → **317**  -1 (-0.31%)
+> ER3 SEP28 — +1 
+> I SEP28 —  -1
 
 ---
 
